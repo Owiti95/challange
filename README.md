@@ -30,7 +30,7 @@ To run The Bank of Flatiron locally, follow these steps:
 
 1. Clone the Repository:
    
-   git clone https://github.com/yourusername/the-bank-of-flatiron.git
+   git clone https://github.com/owiti95/bot4.git
    
 2. Navigate to the Project Directory:
    
